@@ -28,4 +28,9 @@ https://discord.gg/z5zXkh57
 https://discord.gg/z5zXkh57
 https://discord.gg/z5zXkh57
 
-```
+```qb-core/shared/
+["drone_flyer_1"] 			 	 = {["name"] = "drone_flyer_1", 			 		["label"] = "mini drone", 			["weight"] = 1000, 		["type"] = "item", 		["image"] = "drone.png", 			["unique"] = true, 		["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "police drone"},
+
+````
+https://cdn.discordapp.com/attachments/928937299759202324/929079566792786061/unknown.png
+````
