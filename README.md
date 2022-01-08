@@ -25,5 +25,6 @@ qb-core/shared/
 ["drone_flyer_1"] 			 	 = {["name"] = "drone_flyer_1", 			 		["label"] = "mini drone", 			["weight"] = 1000, 		["type"] = "item", 		["image"] = "drone.png", 			["unique"] = true, 		["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "police drone"},
 ```
 ````
-https://cdn.discordapp.com/attachments/928937299759202324/929079566792786061/unknown.png
+![drone](https://user-images.githubusercontent.com/89742984/148655771-2e1390f5-0994-4ebf-ba0f-d3b4584b64f1.png)
+
 ````
