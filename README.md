@@ -1,11 +1,11 @@
 # qb-drone free 🤯🤯🤯🤯🤯
-this drone script was a esx script so i try to conv it to qbcore 
+
+esx drone to QBCore 🥴🥴😁😁
 
 video : https://www.youtube.com/watch?v=2e8hAcyCS7o
 
 *
 
-![1drone](https://user-images.githubusercontent.com/89742984/148655771-2e1390f5-0994-4ebf-ba0f-d3b4584b64f1.png)
 
 *
 
