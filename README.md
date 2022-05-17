@@ -19,3 +19,9 @@ start [drone]
 *
 
 DONT SELL THIS SCRIPT OUR I WILLL EAT YOUR MOM
+
+*
+
+our script 
+
+![download](https://user-images.githubusercontent.com/89742984/168811567-5898748d-1b5d-4962-9739-8bcbeb87a9a9.jpg)
