@@ -18,4 +18,4 @@ start [drone]
 
 *
 
-dont sell or i will eat your food
+DONT SELL THIS SCRIPT OUR I WILLL EAT YOUR MOM
