@@ -5,7 +5,8 @@ esx drone to QBCore 🥴🥴😁😁
 video : https://www.youtube.com/watch?v=2e8hAcyCS7o
 
 *
-
+server.cfg 
+start [drone]
 
 *
 
